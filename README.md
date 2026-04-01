@@ -16,13 +16,15 @@ Become a job-ready DevSecOps Engineer by mastering:
 
 ---
 
-## 📅 Progress
+## 📂 Topics Covered
 
-### 🐳 Docker
-- [ ] Day 1 – Installation & Setup
-- [ ] Day 2 – Containers & Images
-- [ ] Day 3 – Port Binding
-- [ ] Day 4 – Networking
+- 🐳 Docker
+- 🐧 Linux & Networking
+- ⚙️ CI/CD Pipelines
+- ☸️ Kubernetes
+- 🔒 Security Practices
+
+*Each folder contains notes, commands, and mini-steps.*
 
 ---
 
