@@ -38,7 +38,7 @@ security/
 ## 🧠 Learning Approach
 
 - Learn → Practice → Document → Share
-- No tutorial hell — only real understanding
+- No tutorial hell only real understanding
 - Consistency over perfection
 
 ---
