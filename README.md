@@ -48,7 +48,7 @@ security/
 ## 🔗 Connect With Me
 
 - LinkedIn: https://linkedin.com/in/shahmeershahid
-- Twitter: https://x.com/beingshahmeer4
+- Twitter: https://x.com/shahmeershahid_
 - Protfolio: https://shahmeershahid.vercel.app
 
 ---
