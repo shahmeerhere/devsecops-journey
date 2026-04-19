@@ -1,4 +1,4 @@
-```markdown
+
 # 🐳 Docker
 
 This folder contains my hands-on work and daily progress with Docker.
@@ -38,7 +38,7 @@ It helps ensure consistency across different environments.
 ## 🎯 Goal
 
 Use Docker in real DevSecOps workflows and projects.
-```
+
 
 ````markdown
 # Day 01 - Docker
