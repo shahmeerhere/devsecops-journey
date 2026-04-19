@@ -40,7 +40,7 @@ It helps ensure consistency across different environments.
 Use Docker in real DevSecOps workflows and projects.
 
 
-````markdown
+
 # Day 01 - Docker
 
 ## ✅ What I Did
