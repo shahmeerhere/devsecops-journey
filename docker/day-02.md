@@ -44,13 +44,16 @@ docker system prune
 
 * Confusion between stopping and removing containers
 * Some containers stayed in exited state
+* Error while removing an image that was being used by a container
 
 ---
 
 ## ✅ Solution
 
 * Used `docker ps -a` to find all containers
-* Used `docker rm` to remove stopped containers
+* Stopped the running container using `docker stop <container_id>`
+* Removed the container using `docker rm <container_id>`
+* Then successfully removed the image using `docker rmi <image_id>`
 
 ---
 
