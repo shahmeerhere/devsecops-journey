@@ -35,7 +35,7 @@ Alongside backend containerization, I also integrated a **frontend layer**, turn
 
 ---
 
-# 🧩 2. Frontend Addition (New Layer)
+# 🧩 2. Frontend Integration (New Layer)
 
 ## 🔐 Pages Built
 
@@ -105,15 +105,15 @@ It is:
 ### Now:
 
 * Frontend UI added
-* Authentication flow exists
-* User dashboard system exists
-* End-to-end user journey is complete
+* Authentication flow implemented
+* Dashboard-based system exists
+* End-to-end user journey completed
 
 ---
 
-# ⚙️ 5. Docker Role in Full Stack Setup
+# ⚙️ 5. Docker Role in Full System
 
-Docker now handles the entire system:
+Docker now acts as the system integrator:
 
 ```id="docker_fullstack"
 Frontend Container (optional)
@@ -129,10 +129,10 @@ All connected via Docker Network
 
 # 🚧 6. Key Understanding I Reached
 
-* Frontend is just a **client layer**
-* Backend is the **logic + control center**
-* Databases are **state + persistence layer**
-* Docker is the **system integrator**
+* Frontend is just a **presentation layer**
+* Backend is the **system brain (logic + auth)**
+* Databases are the **state + persistence layer**
+* Docker connects everything into a **single system**
 
 ---
 
@@ -142,8 +142,8 @@ All connected via Docker Network
 ✔ Databases integrated
 ✔ Multi-container system working
 ✔ Frontend added (full-stack completed)
-✔ User authentication flow implemented
-✔ Dashboard-based project saving system created
+✔ Authentication flow implemented
+✔ Dashboard-based project system working
 
 ---
 
@@ -151,7 +151,7 @@ All connected via Docker Network
 
 > Docker phase is officially complete with full-stack integration.
 
-Everything in Docker has been covered — from single containers to a complete full-stack architecture.
+Everything in Docker has been covered — from single containers to a complete real-world system architecture.
 
 ---
 
@@ -166,4 +166,4 @@ We now move from:
 
 > Building and running systems manually
 > → to
-> Automating build, test, and deployment workflows
+> Automating build, test, and deployment workflows.
