@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shahmeer
+#  Hi, I'm Shahmeer
 
 I’m a developer focused on learning **DevSecOps, Backend systems, and Cloud fundamentals** through hands-on projects and daily practice.
 
