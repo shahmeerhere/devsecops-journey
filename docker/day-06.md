@@ -4,7 +4,7 @@
 
 Stop thinking in individual containers and start understanding the **full system architecture** of my AppTrackr project.
 
-Today is not about commands — it is about seeing how everything I learned so far connects into a real backend system.
+Today is not about commands it is about seeing how everything I learned so far connects into a real backend system.
 
 ---
 
